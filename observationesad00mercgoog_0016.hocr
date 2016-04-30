@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesad00mercgoog_0016.png"; bbox 0 0 4842 6059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1836 2272 3110 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1836 2272 3110 2342">
+     <span class='ocr_line' id='line_1_1' title="bbox 1836 2272 3110 2342; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 1836 2275 1938 2342; x_wconf 84' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_2' title='bbox 1982 2278 2218 2341; x_wconf 76' lang='lat' dir='ltr'>decreto</span> <span class='ocrx_word' id='word_1_3' title='bbox 2264 2284 2506 2339; x_wconf 71' lang='lat' dir='ltr'><strong>uenatu·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2551 2272 2999 2339; x_wconf 71' lang='lat' dir='ltr'><strong>Universitatin.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3103 2311 3110 2320; x_wconf 74' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1130 2397 2552 2519">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1130 2397 2552 2519">
+     <span class='ocr_line' id='line_1_2' title="bbox 1130 2397 2552 2519; baseline -0.007 -18"><span class='ocrx_word' id='word_1_6' title='bbox 1130 2434 1390 2519; x_wconf 63' lang='lat' dir='ltr'>nuqua</span> <span class='ocrx_word' id='word_1_7' title='bbox 1431 2436 1488 2497; x_wconf 76' lang='grc' dir='ltr'>«ι.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1536 2429 1631 2497; x_wconf 87' lang='lat' dir='ltr'>1v</span> <span class='ocrx_word' id='word_1_9' title='bbox 1675 2452 1754 2501; x_wconf 79' lang='lat' dir='ltr'>m.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1801 2429 1956 2496; x_wconf 58' lang='lat' dir='ltr'>nee.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1995 2454 2047 2494; x_wconf 67' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2094 2397 2552 2493; x_wconf 68' lang='lat' dir='ltr'>Mocccmk.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3001 2542 3796 2621">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3001 2542 3796 2621">
+     <span class='ocr_line' id='line_1_3' title="bbox 3001 2542 3796 2621; baseline -0.001 -14"><span class='ocrx_word' id='word_1_13' title='bbox 3001 2542 3110 2608; x_wconf 88' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_14' title='bbox 3162 2542 3252 2607; x_wconf 85' lang='lat' dir='ltr'>Bi</span> <span class='ocrx_word' id='word_1_15' title='bbox 3269 2546 3302 2606; x_wconf 79' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_16' title='bbox 3320 2547 3356 2607; x_wconf 79' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_17' title='bbox 3371 2565 3405 2607; x_wconf 76' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_18' title='bbox 3421 2565 3451 2608; x_wconf 77' lang='lat' dir='ltr'>r</span> <span class='ocrx_word' id='word_1_19' title='bbox 3467 2589 3487 2621; x_wconf 91' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_20' title='bbox 3549 2542 3796 2610; x_wconf 77' lang='lat' dir='ltr'><strong>Rector.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
